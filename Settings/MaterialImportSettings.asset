@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa9a2bf7b4e1344d8a2599f1f7f9cf4, type: 3}
+  m_Name: MaterialImportSettings
+  m_EditorClassIdentifier: 
+  normalValue: 1
+  smoothnessValue: 0.6
+  emissionValue: 9
+  skyboxMaterial: {fileID: 2100000, guid: e1cdf4b17bf213d468f0eb6886434880, type: 2}

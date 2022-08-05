@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aea7eaf30730dd40879f8a4b59de664, type: 3}
+  m_Name: EnvironmentPresetGreyDark
+  m_EditorClassIdentifier: 
+  backgroundName: GreyDark
+  floorPrefab: {fileID: 6775350044775141132, guid: 893067455b982f74b86cbf0df7f19d45,
+    type: 3}
+  useAdditionalLight: 0
+  lightRotation: {x: 50.99, y: 0, z: 0}
+  shadowsRotation: {x: 82.83, y: 0, z: 0}
+  lightIntensity: 0.2
+  lightShadowsIntensity: 0.2
+  lightTemperature: 13313
+  shadowIntensity: 0.328
+  shadowColor: {r: 0, g: 0, b: 0, a: 1}
+  lightFilter: {r: 1, g: 1, b: 1, a: 1}
+  lightFilterShadows: {r: 1, g: 1, b: 1, a: 0}
+  environmentEmissionColorLeft: {r: 15.999998, g: 15.999998, b: 15.999998, a: 0}
+  environmentEmissionColorRight: {r: 15.999998, g: 15.999998, b: 15.999998, a: 0}

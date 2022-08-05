@@ -1,0 +1,282 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 7a490df988c7bb8469a715d84598700f, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1744178958933688330
+  m_TableData:
+  - m_Id: 24222617600
+    m_Localized: Import Layers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7169475334144
+    m_Localized: Import files from PC`s folders according to each Layer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7692601511936
+    m_Localized: Load Layers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7707088637952
+    m_Localized: Load Layers data from JSON file.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404720254963712
+    m_Localized: Save Layers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404729247551488
+    m_Localized: Save Layers data to JSON file.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 405145800658944
+    m_Localized: Update Layers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 405215484825600
+    m_Localized: Update Layers data in Google Sheets.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407016716095488
+    m_Localized: Generate Characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407109720592384
+    m_Localized: Generate characters collection and open Collection Preview screen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425708027891712
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426717181628416
+    m_Localized: Done
+    m_Metadata:
+      m_Items: []
+  - m_Id: 428686881312768
+    m_Localized: Generation Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 428714660188160
+    m_Localized: Collection Preview
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431068197408768
+    m_Localized: Rarity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431070122594304
+    m_Localized: Change name...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431427527626752
+    m_Localized: Change rarity...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 432160775852032
+    m_Localized: Reset Rotation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 432271945879552
+    m_Localized: Reset current detail rotation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 438448767356928
+    m_Localized: Save Characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 438507034628096
+    m_Localized: Save characters collection to JSON file.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439026838917120
+    m_Localized: Edit Character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439058182950912
+    m_Localized: Open Edit Character screen to change its layers data, but first,
+      choose a character.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440392428802048
+    m_Localized: View Collection Statistics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440443641253888
+    m_Localized: Open Collection Statistics screen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440869287612416
+    m_Localized: Export Collection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440893950119936
+    m_Localized: 'Export characters collection. It will include both: JSONs and PNGs.
+      Be careful it may take a lot of time.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441566817144832
+    m_Localized: Reset Collection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441591278325760
+    m_Localized: Reset collection and return to Generation Settings screen to make
+      new collection.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442512724971520
+    m_Localized: Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442479027933184
+    m_Localized: Layer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442582186840064
+    m_Localized: Initial Rarity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442606346031104
+    m_Localized: Actual Rarity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 444418545405952
+    m_Localized: Search Characters...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 444843663282176
+    m_Localized: 'Characters count:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 449559059222528
+    m_Localized: Save Character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 449579695198208
+    m_Localized: Save changes you made and return to Collection Preview screen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 449954665975808
+    m_Localized: Discard Changes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 449973586481152
+    m_Localized: Discard changes you made and return to Collection Preview screen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450895012155392
+    m_Localized: Old Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450906303221760
+    m_Localized: New Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451328669634560
+    m_Localized: Difference
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1418074817810432
+    m_Localized: Enter characters count
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1419441288499200
+    m_Localized: Warning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1419492127657984
+    m_Localized: You are going to delete all the information about the current layers
+      and load new Layers from PC`s folders. Are you sure?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1425917570699264
+    m_Localized: Enter images count to export
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426666665005056
+    m_Localized: Version
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1436516782428160
+    m_Localized: Error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1445043890540544
+    m_Localized: The sum of the ({global.layerName}) layer's rarities is not equal
+      to 100%.
+    m_Metadata:
+      m_Items:
+      - rid: 1744178958933688330
+  - m_Id: 1818490105745408
+    m_Localized: You have not selected any models to display the color scheme.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1819370087501824
+    m_Localized: You need to import Layers first.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1821823067475968
+    m_Localized: You need to select a Character first.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1834303353245696
+    m_Localized: You have typed incorrect color values ({global.colorString}) in
+      Layer ({global.layerName}), detail ({global.detailName}) in Google Sheet. Retype
+      color in Hex format.
+    m_Metadata:
+      m_Items:
+      - rid: 1744178958933688330
+  - m_Id: 1837916163133440
+    m_Localized: New type of detail ({global.detailType}) was found in Google Sheet.
+    m_Metadata:
+      m_Items:
+      - rid: 1744178958933688330
+  - m_Id: 1844261595631616
+    m_Localized: The sum of the layer's rarities ({global.raritiesSum}%) is not equal
+      to 100%!
+    m_Metadata:
+      m_Items:
+      - rid: 1744178958933688330
+  - m_Id: 1847457097437184
+    m_Localized: Fbx model is missing!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1853516377739264
+    m_Localized: WARNING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1856527921565696
+    m_Localized: There is a character with the same name ({global.failedValidationName}).
+    m_Metadata:
+      m_Items:
+      - rid: 1744178958933688330
+  - m_Id: 1856889512513536
+    m_Localized: Enter integer number between ({global.minGenerations}) and ({global.maxGenerations}).
+    m_Metadata:
+      m_Items:
+      - rid: 1744178958933688330
+  - m_Id: 1873588420857856
+    m_Localized: Enter only integer numbers
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 1744178958933688330
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00d0c77f4222050000d0c731c983060000d0c7074a84060000d007349387060000d0479d588d060000d047978098060000d0c7c7d4980600

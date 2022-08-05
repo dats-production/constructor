@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aea7eaf30730dd40879f8a4b59de664, type: 3}
+  m_Name: EnvironmentPresetVioletLow
+  m_EditorClassIdentifier: 
+  backgroundName: VioletLow
+  floorPrefab: {fileID: 6775350044775141132, guid: 893067455b982f74b86cbf0df7f19d45,
+    type: 3}
+  useAdditionalLight: 1
+  useShadowEnhancer: 0
+  lightRotation: {x: 0, y: 0, z: 0}
+  shadowsRotation: {x: 90, y: 0, z: 0}
+  lightIntensity: 1
+  lightShadowsIntensity: 0.2
+  lightTemperature: 14588
+  shadowIntensity: 0.946
+  shadowColor: {r: 0.8627451, g: 0.7647059, b: 0.8862745, a: 1}
+  lightFilter: {r: 0.85490197, g: 0.7019608, b: 1, a: 1}
+  lightFilterShadows: {r: 1, g: 1, b: 1, a: 1}
+  environmentEmissionColorLeft: {r: 42.67354, g: 15.718678, b: 44.431465, a: 0}
+  environmentEmissionColorRight: {r: 28.839119, g: 74.68165, b: 197.22237, a: 0}

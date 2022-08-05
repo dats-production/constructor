@@ -1,0 +1,270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: 7a490df988c7bb8469a715d84598700f
+  m_Entries:
+  - m_Id: 24222617600
+    m_Key: Import Layers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7169475334144
+    m_Key: Import Layers Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7692601511936
+    m_Key: Load Layers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7707088637952
+    m_Key: Load Layers Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404720254963712
+    m_Key: Save Layers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404729247551488
+    m_Key: Save Layers Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 405145800658944
+    m_Key: Update Layers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 405215484825600
+    m_Key: Update Layers Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407016716095488
+    m_Key: Generate Characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407109720592384
+    m_Key: Generate Characters Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425708027891712
+    m_Key: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426717181628416
+    m_Key: Done
+    m_Metadata:
+      m_Items: []
+  - m_Id: 428686881312768
+    m_Key: Generation Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 428714660188160
+    m_Key: Collection Preview
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431068197408768
+    m_Key: Rarity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431070122594304
+    m_Key: Change name...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431427527626752
+    m_Key: Change rarity...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 432160775852032
+    m_Key: Reset Rotation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 432271945879552
+    m_Key: Reset Rotation Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 438448767356928
+    m_Key: Save Characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 438507034628096
+    m_Key: Save Characters Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439026838917120
+    m_Key: Edit Character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439058182950912
+    m_Key: Edit Character Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440392428802048
+    m_Key: View Collection Statistics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440443641253888
+    m_Key: View Collection Statistics Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440869287612416
+    m_Key: Export Collection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440893950119936
+    m_Key: Export Collection Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441566817144832
+    m_Key: Reset Collection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441591278325760
+    m_Key: Reset Collection Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442479027933184
+    m_Key: Layer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442512724971520
+    m_Key: Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442582186840064
+    m_Key: Initial Rarity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442606346031104
+    m_Key: Actual Rarity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 444418545405952
+    m_Key: Search Characters...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 444843663282176
+    m_Key: 'Characters count:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 449559059222528
+    m_Key: Save Character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 449579695198208
+    m_Key: Save Character Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 449954665975808
+    m_Key: Discard Changes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 449973586481152
+    m_Key: Discard Changes Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450895012155392
+    m_Key: Old Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450906303221760
+    m_Key: New Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451328669634560
+    m_Key: Difference
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1418074817810432
+    m_Key: Enter characters count
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1419441288499200
+    m_Key: Warning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1419492127657984
+    m_Key: Reimport Layers Warning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1425917570699264
+    m_Key: Enter images count to export
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426666665005056
+    m_Key: Version
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1436516782428160
+    m_Key: Error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1445043890540544
+    m_Key: The sum of the () layer's rarities is not equal to 100%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1818490105745408
+    m_Key: You have not selected any models to display the color scheme.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1819370087501824
+    m_Key: You need to import Layers first.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1821823067475968
+    m_Key: You need to select a Character first.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1834303353245696
+    m_Key: You have typed incorrect color values () in Layer (), detail (). Retype
+      color in Hex format.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1837916163133440
+    m_Key: New type of detail () was found in Google Sheet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1844261595631616
+    m_Key: The sum of the layer's rarities (%) is not equal to 100%!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1847457097437184
+    m_Key: Fbx model is missing!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1853516377739264
+    m_Key: WARNING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1856527921565696
+    m_Key: There is a character with the same name (). Enter another name.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1856889512513536
+    m_Key: Enter integer number between () and ().
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1873588420857856
+    m_Key: Enter only integer numbers
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1744178871306289178
+  references:
+    version: 2
+    RefIds:
+    - rid: 1744178871306289178
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1658403668140
